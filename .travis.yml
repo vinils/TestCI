@@ -2,4 +2,4 @@ language: shell
 os: windows
 
 script:
-  - "csript.exe App.vbs"
+  - "C:\Windows\System32\cscript.exe App.vbs"
